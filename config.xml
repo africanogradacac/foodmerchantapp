@@ -25,6 +25,8 @@
 	<gap:plugin name="cordova-plugin-splashscreen" />	
 	<gap:plugin name="cordova-plugin-geolocation" />
 	<gap:plugin name="cordova-plugin-network-information" />
+	
+	<gap:plugin name="cordova-plugin-googlemaps"  source="npm" spec="1.3.9" >
 
 	<gap:splash src="splash.png" />
 	<preference name="AutoHideSplashScreen" value="false" />  	
