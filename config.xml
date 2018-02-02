@@ -23,7 +23,7 @@
     <gap:plugin name="cordova-plugin-device" source="npm"/>		
 	<gap:plugin name="cordova-plugin-inappbrowser" source="npm"/>		
 	<gap:plugin name="cordova-plugin-splashscreen" source="npm"/>	
-	<gap:plugin name="cordova-plugin-geolocation" />
+	<gap:plugin name="cordova-plugin-geolocation" source="npm"/>
 	<gap:plugin name="cordova-plugin-network-information" />
 
 	<gap:splash src="splash.png" />
