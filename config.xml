@@ -24,7 +24,7 @@
 	<gap:plugin name="cordova-plugin-inappbrowser" source="npm"/>		
 	<gap:plugin name="cordova-plugin-splashscreen" source="npm"/>	
 	<gap:plugin name="cordova-plugin-geolocation" source="npm"/>
-	<gap:plugin name="cordova-plugin-network-information" />
+	<gap:plugin name="cordova-plugin-network-information" source="npm"/>
 
 	<gap:splash src="splash.png" />
 	<preference name="AutoHideSplashScreen" value="false" />  	
